@@ -50,7 +50,7 @@ Full-stack developer. You can find here coding projects built to show my knowled
 
 <p align="center">
 
-<a href="#"><img alt="Website" src="https://img.shields.io/badge/In%20Progress"></a>
+<a href="#"><img alt="Website" src="https://img.shields.io/badge/In%20Progress"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
 <a href="https://www.linkedin.com/in/jucel-dorante-2338a115a"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Jucel%20Dorante-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
