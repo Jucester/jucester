@@ -1,9 +1,10 @@
 # 🦉 Jucel Dorante
 <!-- **`Bringing ideas to reality`** -->
 
-<img align='right' src='https://raw.githubusercontent.com/jucester/jucester/main/images/image01.jpg' width='10%'>
+<img align='right' src='https://raw.githubusercontent.com/jucester/jucester/main/images/image01.jpg' width='20%'>
 
 Full-stack developer. You can find here coding projects built to show my knowledge or learn new technologies, everything having in mind the idea of solving real-life problems with code.
+
 ### About me 👋
 
 - 🌱 Currently learning Rust, Kubernetes. Improving my frontend with NextJS and getting better with AWS. I'm always sharpening my skills.
@@ -51,7 +52,7 @@ Full-stack developer. You can find here coding projects built to show my knowled
 
 <a href="#"><img alt="Website" src="https://img.shields.io/badge/In%20Progress"></a>
 
-<a href="https://www.linkedin.com/in/jucel-dorante-2338a115a"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Jucel%20Dorante-blue"></a>
+<a href="https://www.linkedin.com/in/jucel-dorante-2338a115a"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Jucel%20Dorante-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <a href="mailto:jucester@protonmail.com"><img alt="Email" src=""></a>
 
